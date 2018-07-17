@@ -4,6 +4,10 @@ moodle-local_profilecohort
 Changes
 -------
 
+### Unreleased
+
+* 2018-07-17 - Bugfix: rules didn't match properly if last rule had andnextrule.
+
 ### v3.5-r2
 
 * 2018-07-10 - Support for testing if text fields or textareas are (not) empty.
